@@ -10,16 +10,10 @@ Im a Data Science Training Specialist at the London School of Economics and Poli
 - ⚡ Fun fact: Enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505)
                 Occasionally blog and podcast: [https://www.saqibsafdar.com/](https://www.saqibsafdar.com/)
 
-
-
 Language and Tools
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="400" height="400">
 
-<img src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png" width="400" height="400">
+![Python](python.png)
 
-<img src="https://www.r-project.org/logo/Rlogo.png" width="400" height="400">
-
-<img src="https://www.example.com/sql-logo.png" width="400" height="400">
 
 
 
