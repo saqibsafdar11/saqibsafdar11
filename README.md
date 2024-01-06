@@ -13,13 +13,13 @@ Im a Data Science Training Specialist at the London School of Economics and Poli
 
 
 Language and Tools
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="400" height="400">
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="100" height="100">
 
-<img src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png" width="400" height="400">
+<img src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png" width="100" height="100">
 
-<img src="https://www.r-project.org/logo/Rlogo.png" width="400" height="400">
+<img src="https://www.r-project.org/logo/Rlogo.png" width="100" height="100">
 
-<img src="https://www.example.com/sql-logo.png" width="400" height="400">
+<img src="https://www.example.com/sql-logo.png" width="100" height="100">
 
 
 
