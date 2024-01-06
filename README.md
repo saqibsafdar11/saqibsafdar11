@@ -5,17 +5,19 @@ Im a Data Science Training Specialist at the London School of Economics and Poli
 - 🔭 I’m currently working on developing a Tableau Dashboard for the Digital Skills Lab at LSE
 - 🌱 I’m currently learning Machine Learning and Artificial Intelligence 
 - 📫 How to reach me: [you can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/)  
-                    s.safdar@lse.ac.uk
+                         s.safdar@lse.ac.uk
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505)
-                Occasionally blog and podcast: [https://www.saqibsafdar.com/](https://www.saqibsafdar.com/)
+                 
+                 Occasionally blog and podcast: [https://www.saqibsafdar.com/](https://www.saqibsafdar.com/)
 
 Language and Tools
 
-<img src="python.png" alt="Python" width="50" height="50">
-<img src="SQL.png" alt="SQL" width="50" height="50">
-<img src="Tableau.png" alt="Tableau" width="50" height="50">
-<img src="R.jpg" alt="R" width="50" height="50">
+ - Python
+ - Tableau
+ - R
+ - SQL
+
 
 
 
