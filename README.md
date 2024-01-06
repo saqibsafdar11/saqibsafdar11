@@ -12,10 +12,11 @@ Im a Data Science Training Specialist at the London School of Economics and Poli
 
 Language and Tools
 
-![Python](python.png)
-![SQL](SQL.png)
-![Tableau](Tableau.png)
-![R](R.jpg)
+<img src="python.png" alt="Python" width="50" height="50">
+<img src="SQL.png" alt="SQL" width="50" height="50">
+<img src="Tableau.png" alt="Tableau" width="50" height="50">
+<img src="R.jpg" alt="R" width="50" height="50">
+
 
 
 
