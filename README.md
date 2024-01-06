@@ -13,6 +13,11 @@ Im a Data Science Training Specialist at the London School of Economics and Poli
 Language and Tools
 
 ![Python](python.png)
+![SQL](SQL.png)
+![Tableau](Tableau.png)
+![R](R.jpg)
+
+
 
 
 
