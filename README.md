@@ -12,8 +12,8 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 Language and Tools:
 
-- Python
-- Tableau
+- Python (Numpy,Pandas,Scikit-learn, Matplotlib)
+- Tableau (prep and desktop)
 - R
 - SQL
 
