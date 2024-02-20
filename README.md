@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialize in tools such as Python, Tableau, and R.
+I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, and R.
 
 - 🔭 I’m currently working on developing a Tableau Dashboard for the Digital Skills Lab at LSE.
 - 🌱 I’m studying for a Professional Certificate in Machine Learning and Artificial Intelligence at Imperial College Business School
