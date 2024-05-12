@@ -12,7 +12,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 Language and Tools:
 
-- Python (Numpy,Pandas,Scikit-learn, Pytorch, Matplotlib)
+- Python (Numpy,Pandas,Scikit-learn, Pytorch, Tensor Flow, Matplotlib)
 - Tableau (prep and desktop)
 - R
 - SQL
