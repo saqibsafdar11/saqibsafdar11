@@ -1,4 +1,12 @@
+# Saqib Safar
+### Data Science Training Specialist | London School of Economics
 
+Welcome to my GitHub profile! I'm Saqib Safar, a passionate Masters student of Data Science and Artificial Intelligence at Imperial College London. (You can add your short summary)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=dark)](https://github.com/saqibsafdar11)
+
+
+-----
 ### Hi there 👋
 
 I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, and R.
