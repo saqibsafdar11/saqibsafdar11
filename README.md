@@ -16,7 +16,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=dark)](https://github.com/saqibsafdar11)
 
 ## AI Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)]([https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)]([https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
 
 
 ## IDE
