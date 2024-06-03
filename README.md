@@ -18,6 +18,15 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 ## AI Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)]([https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market)]([https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Predicting-Heart-Disease---ML-Project)]([https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project)
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Building-a-Spam-Filter-with-Naive-Bayes)]([https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes)
+
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Predicting-Employee-Productivity-Using-Tree-Models)]([https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
+
 
 ## IDE
 [![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/saqibsafdar11)
