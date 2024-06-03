@@ -1,6 +1,6 @@
 # Saqib Safdar
 ### Data Science Training Specialist | London School of Economics
-<!---
+
 ### Hi there 👋 Welcome to my GitHub profile! 
 
 I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, and R.
