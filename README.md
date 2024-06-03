@@ -22,6 +22,9 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Building-a-Spam-Filter-with-Naive-Bayes)]([https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Predicting-Employee-Productivity-Using-Tree-Models)]([https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
 
+## Tableau
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Tableau-DSL-Dashboard)](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard)
+
 ## SQL Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=ksproject)](https://github.com/saqibsafdar11/ksproject)
 
