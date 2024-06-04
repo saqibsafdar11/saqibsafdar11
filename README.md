@@ -26,7 +26,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Tableau-DSL-Dashboard)](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard)
 
 ## SQL Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=ksproject)](https://github.com/saqibsafdar11/ksproject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Analyzing-Kickstarter-Projects)](https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=Customers-and-Products-Analysis-Using-SQL)](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=SQL-Window-Functions-for-Northwind-Traders)](https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders)
 
