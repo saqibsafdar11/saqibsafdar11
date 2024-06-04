@@ -27,7 +27,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 ## SQL Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=ksproject)](https://github.com/saqibsafdar11/ksproject)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=dark&hide_border=true&repo=SQL-Window-Functions-for-Northwind-Traders)](https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders)
 
 
 ## IDE
