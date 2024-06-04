@@ -1,4 +1,3 @@
-![](https://github.com/saqibsafdar11/saqibsafdar11/blob/main/header.JPG?raw=true)
 # Saqib Safdar
 ### Data Science Training Specialist | London School of Economics
 
