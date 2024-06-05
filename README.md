@@ -11,7 +11,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 - 📫 How to reach me: [You can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/) or email me at s.safdar@lse.ac.uk.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505). 
--  I sometimes blog and podcast at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
+-  Detials of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
 
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=dark)](https://github.com/saqibsafdar11)
