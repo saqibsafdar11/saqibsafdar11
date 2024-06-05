@@ -6,8 +6,8 @@
 
 I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, SQL and R.
 
-- 🔭 Having completed Professional Certificate in Machine Learning and Artificial Intelligence at Imperial College Business School, I am keen to work on real-life projects
-- 🌱 I’m also studying an MSc in AI at the University of Leeds
+- 🔭 I have completed a Professional Certificate in Machine Learning and Artificial Intelligence at Imperial College Business School
+- 🌱 I’m studying an MSc in AI at the University of Leeds
 - 📫 How to reach me: [You can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/) or email me at s.safdar@lse.ac.uk.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505). 
