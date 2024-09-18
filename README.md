@@ -51,7 +51,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 
 ## GitHub Analytics
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saqibsafdar11&show_icons=true&theme=solarized&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibsafdar11&layout=compact&theme=dark&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saqibsafdar11&show_icons=true&theme=light&utcOffset=8)](https://github.com/saqibsafdar11)
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saqibsafdar11&show_icons=true&theme=solarized&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibsafdar11&layout=compact&theme=zenburn&hide_border=true"/> ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saqibsafdar11&show_icons=true&theme=light&utcOffset=8)](https://github.com/saqibsafdar11)
 
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqibsafdar11&theme=light&hide_border=true)](https://git.io/streak-stats)
