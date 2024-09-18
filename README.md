@@ -59,8 +59,6 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 ## Trophie Stats
 ![](https://github-profile-trophy.vercel.app/?username=saqibsafdar11&theme=dark)
 
-## Learning Resources
-![]([https://github-profile-trophy.vercel.app/?username=saqibsafdar11&theme=dark](https://github.com/andrewmoles2/training-resources))
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqib.safdar@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-safdar) 
