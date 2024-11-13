@@ -26,7 +26,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
  ## Data Analysis Projects 
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project)
 
 ## Tableau Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Tableau-DSL-Dashboard)](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard)
