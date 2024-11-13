@@ -24,6 +24,10 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Building-a-Spam-Filter-with-Naive-Bayes)](https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Employee-Productivity-Using-Tree-Models)](https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
 
+ ## Data Analysis Projects 
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project)
+
 ## Tableau Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Tableau-DSL-Dashboard)](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard)
 
