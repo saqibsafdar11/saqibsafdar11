@@ -11,10 +11,9 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 - 📫 How to reach me: [You can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/) or email me at s.safdar@lse.ac.uk.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505). 
--  Detials of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
--  [Enhancing Coding Understanding with Copilot through Prompt Engineering and Critical Analysis](https://docs.google.com/presentation/d/1ZDw5fX3nF-_W-gXaXq6oDuPKDVK1XfFm4J_0Lnso6bM/edit?usp=sharing)-->
+-  Details of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
 
-
+  
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=light)](https://github.com/saqibsafdar11)
 
 ## AI Projects (Python)
