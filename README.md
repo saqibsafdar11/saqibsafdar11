@@ -4,9 +4,10 @@
 
 ### Hi there 👋 Welcome to my GitHub profile! 
 
-I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, SQL and R.
+I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, SQL and R. I have a background in EdTech implementation, digial transformation and mainly post-16 mathematics teaching.
 
 - 🔭 I have completed a Professional Certificate in Machine Learning and Artificial Intelligence at Imperial College Business School
+- 🔭 I have a post-graduate diploma from the University of Edinburgh in Digital Education
 - 🌱 I’m studying AI - MSc (part-time) at the University of Leeds
 - 📫 How to reach me: [You can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/) or email me at s.safdar@lse.ac.uk.
 - 😄 Pronouns: He/Him.
