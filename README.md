@@ -12,6 +12,7 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505). 
 -  Details of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
+-  Teaching material and resources at LSE [https://padlet.com/digitalskillslab/DSL](https://padlet.com/digitalskillslab/DSL)
 
   
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=light)](https://github.com/saqibsafdar11)
