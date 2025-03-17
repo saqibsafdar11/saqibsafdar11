@@ -18,7 +18,8 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
   
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=light)](https://github.com/saqibsafdar11)
 
-## AI Projects (Python)
+## AI Projects (Python) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=ML-Models-for-Fraud-Detection-in-an-Insurance-Company)](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market)](https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Heart-Disease---ML-Project)](https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project)
