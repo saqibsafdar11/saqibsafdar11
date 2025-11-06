@@ -20,66 +20,47 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 ## AI Projects (Python)
 
-<a href="https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=ML-Models-for-Fraud-Detection-in-an-Insurance-Company&theme=light&hide_border=false" />
-</a>
-
-<a href="https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission&theme=light&hide_border=false" />
-</a>
-<a href="https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow&theme=light&hide_border=false" />
-</a>
-
-<a href="https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market&theme=light&hide_border=false" />
-</a>
-<a href="https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Heart-Disease---ML-Project&theme=light&hide_border=false" />
-</a>
-
-<a href="https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Building-a-Spam-Filter-with-Naive-Bayes&theme=light&hide_border=false" />
-</a>
-<a href="https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Employee-Productivity-Using-Tree-Models&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [ML Models for Fraud Detection](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company) | Binary Classification using neural network and HistGradientBoostClassifier ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-Neural%20Networks-orange) |
+| [University Admissions Prediction](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) | Evaluating university admissions data to predict chances of admission ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Regression](https://img.shields.io/badge/ML-Regression-blue) |
+| [Dog Image Classification](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow) | Deep Learning image classification using TensorFlow ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| [Predicting IPO Listing Gains](https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market) | Machine learning models to predict listing gains in the Indian IPO market ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Finance](https://img.shields.io/badge/Domain-Finance-green) |
+| [Heart Disease Prediction](https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project) | ML project for predicting heart disease ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red) |
+| [Spam Filter with Naive Bayes](https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes) | Building a spam filter using Naive Bayes algorithm ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/ML-NLP-purple) |
+| [Employee Productivity Prediction](https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models) | Predicting employee productivity using tree-based models ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Trees](https://img.shields.io/badge/ML-Tree%20Models-brightgreen) |
 
 ## Data Engineering Projects
 
-<a href="https://github.com/saqibsafdar11/Data-Engineering-Project-Using-Pyspark">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Data-Engineering-Project-Using-Pyspark&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [Data Engineering with PySpark](https://github.com/saqibsafdar11/Data-Engineering-Project-Using-Pyspark) | Data engineering project using PySpark for big data processing ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) |
 
 ## Data Analysis Projects
 
-<a href="https://github.com/saqibsafdar11/DfE_P8_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=DfE_P8_Project&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [DfE Progress 8 Analysis](https://github.com/saqibsafdar11/DfE_P8_Project) | Department for Education Progress 8 data analysis project ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
 
 ## Tableau Projects
 
-<a href="https://github.com/saqibsafdar11/Tableau-DSL-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Tableau-DSL-Dashboard&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [DSL Dashboard](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard) | Interactive Tableau dashboard for Digital Skills Lab ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) |
 
 ## SQL Projects
 
-<a href="https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Analyzing-Kickstarter-Projects&theme=light&hide_border=false" />
-</a>
-<a href="https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Customers-and-Products-Analysis-Using-SQL&theme=light&hide_border=false" />
-</a>
-<a href="https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=SQL-Window-Functions-for-Northwind-Traders&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [Analyzing Kickstarter Projects](https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects) | SQL analysis of Kickstarter project data ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| [Customers and Products Analysis](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL) | Customer and product analysis using SQL ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| [SQL Window Functions](https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders) | Advanced SQL window functions for Northwind Traders database ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 
 ## R Projects
 
-<a href="https://github.com/saqibsafdar11/Investigating-COVID-19-Virus-Trends">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Investigating-COVID-19-Virus-Trends&theme=light&hide_border=false" />
-</a>
+| Project | Description |
+|---------|-------------|
+| [COVID-19 Trends Analysis](https://github.com/saqibsafdar11/Investigating-COVID-19-Virus-Trends) | Statistical analysis of COVID-19 virus trends using R ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
 
 ## IDE
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
