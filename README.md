@@ -18,36 +18,71 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
   
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=light)](https://github.com/saqibsafdar11)
 
-## AI Projects (Python) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=ML-Models-for-Fraud-Detection-in-an-Insurance-Company)](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company)
+## AI Projects (Python)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
+<a href="https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=ML-Models-for-Fraud-Detection-in-an-Insurance-Company&theme=light&hide_border=false" />
+</a>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market)](https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Heart-Disease---ML-Project)](https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project)
+<a href="https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission&theme=light&hide_border=false" />
+</a>
+<a href="https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow&theme=light&hide_border=false" />
+</a>
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Building-a-Spam-Filter-with-Naive-Bayes)](https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Employee-Productivity-Using-Tree-Models)](https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
+<a href="https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market&theme=light&hide_border=false" />
+</a>
+<a href="https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Heart-Disease---ML-Project&theme=light&hide_border=false" />
+</a>
 
- ## Data Engineering Projects 
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Data-Engineering-Project-Using-Pyspark)](https://github.com/saqibsafdar11/Data-Engineering-Project-Using-Pyspark)
+<a href="https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Building-a-Spam-Filter-with-Naive-Bayes&theme=light&hide_border=false" />
+</a>
+<a href="https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Predicting-Employee-Productivity-Using-Tree-Models&theme=light&hide_border=false" />
+</a>
 
- ## Data Analysis Projects 
- 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=DfE_P8_Project)](https://github.com/saqibsafdar11/DfE_P8_Project)
+## Data Engineering Projects
+
+<a href="https://github.com/saqibsafdar11/Data-Engineering-Project-Using-Pyspark">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Data-Engineering-Project-Using-Pyspark&theme=light&hide_border=false" />
+</a>
+
+## Data Analysis Projects
+
+<a href="https://github.com/saqibsafdar11/DfE_P8_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=DfE_P8_Project&theme=light&hide_border=false" />
+</a>
 
 ## Tableau Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Tableau-DSL-Dashboard)](https://github.com/saqibsafdar11/Tableau-DSL-Dashboard)
+
+<a href="https://github.com/saqibsafdar11/Tableau-DSL-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Tableau-DSL-Dashboard&theme=light&hide_border=false" />
+</a>
 
 ## SQL Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Analyzing-Kickstarter-Projects)](https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Customers-and-Products-Analysis-Using-SQL)](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=SQL-Window-Functions-for-Northwind-Traders)](https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders)
+
+<a href="https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Analyzing-Kickstarter-Projects&theme=light&hide_border=false" />
+</a>
+<a href="https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Customers-and-Products-Analysis-Using-SQL&theme=light&hide_border=false" />
+</a>
+<a href="https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=SQL-Window-Functions-for-Northwind-Traders&theme=light&hide_border=false" />
+</a>
 
 ## R Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=github&hide_border=false&repo=Investigating-COVID-19-Virus-Trends)](https://github.com/saqibsafdar11/Investigating-COVID-19-Virus-Trends)
+
+<a href="https://github.com/saqibsafdar11/Investigating-COVID-19-Virus-Trends">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&repo=Investigating-COVID-19-Virus-Trends&theme=light&hide_border=false" />
+</a>
 
 ## IDE
-[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  ![](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://github.com/saqibsafdar11)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## Skills
 ![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)  ![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -73,10 +108,11 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 
 ## Contact
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqib.safdar@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-safdar) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqib.safdar@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqib-safdar)
 
-<!---![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)>
------
+---
+
+<!---![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)--->
 
 
 
