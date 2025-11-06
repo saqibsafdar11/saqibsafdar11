@@ -62,6 +62,12 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 |---------|-------------|
 | [COVID-19 Trends Analysis](https://github.com/saqibsafdar11/Investigating-COVID-19-Virus-Trends) | Statistical analysis of COVID-19 virus trends using R ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) |
 
+## Logic with Prolog and Lean4
+
+| Project | Description |
+|---------|-------------|
+| [Logic](https://github.com/saqibsafdar11/Logic) | Formal logic and theorem proving projects ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=flat&logo=prolog&logoColor=white) ![Lean4](https://img.shields.io/badge/Lean4-6E4C8C?style=flat&logoColor=white) |
+
 ## IDE
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
