@@ -20,11 +20,18 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 ## AI Projects (Python) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=ML-Models-for-Fraud-Detection-in-an-Insurance-Company)](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market)](https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Heart-Disease---ML-Project)](https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Evaluating-university-admissions-data-to-predict-the-chances-of-admission)](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission)
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Building-a-Spam-Filter-with-Naive-Bayes)](https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Employee-Productivity-Using-Tree-Models)](https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Listing-Gains-in-the-Indian-IPO-Market)](https://github.com/saqibsafdar11/Predicting-Listing-Gains-in-the-Indian-IPO-Market)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Heart-Disease---ML-Project)](https://github.com/saqibsafdar11/Predicting-Heart-Disease---ML-Project)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Building-a-Spam-Filter-with-Naive-Bayes)](https://github.com/saqibsafdar11/Building-a-Spam-Filter-with-Naive-Bayes)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Predicting-Employee-Productivity-Using-Tree-Models)](https://github.com/saqibsafdar11/Predicting-Employee-Productivity-Using-Tree-Models)
 
  ## Data Engineering Projects 
  
@@ -39,7 +46,9 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 
 ## SQL Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Analyzing-Kickstarter-Projects)](https://github.com/saqibsafdar11/Analyzing-Kickstarter-Projects)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=Customers-and-Products-Analysis-Using-SQL)](https://github.com/saqibsafdar11/Customers-and-Products-Analysis-Using-SQL)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saqibsafdar11&theme=light&hide_border=false&repo=SQL-Window-Functions-for-Northwind-Traders)](https://github.com/saqibsafdar11/SQL-Window-Functions-for-Northwind-Traders)
 
 ## R Projects
