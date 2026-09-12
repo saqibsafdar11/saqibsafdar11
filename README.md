@@ -4,7 +4,7 @@
 
 ### Hi there 👋 Welcome to my GitHub profile! 
 
-I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, SQL and R. I have a background in EdTech implementation, digial transformation and mainly post-16 mathematics teaching.
+I'm a Data Science Training Specialist at the London School of Economics and Political Science (LSE). I specialise in tools such as Python, Tableau, SQL and R. I have a background in EdTech implementation, digital transformation and mainly post-16 mathematics teaching.
 
 - 🔭 I have completed a Professional Certificate in Machine Learning and Artificial Intelligence at Imperial College Business School
 - 🔭 I have a post-graduate diploma from the University of Edinburgh in Digital Education
@@ -12,17 +12,37 @@ I'm a Data Science Training Specialist at the London School of Economics and Pol
 - 📫 How to reach me: [You can find me on Linkedin](https://www.linkedin.com/in/saqib-safdar/) or email me at s.safdar@lse.ac.uk.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I enjoy road cycling. You can find me on Strava [here](https://www.strava.com/athletes/9438505). 
--  Details of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).-->
+-  Details of my EdTech work can be found at [www.saqibsafdar.com](https://www.saqibsafdar.com/).
 -  Teaching material and resources at LSE [https://padlet.com/digitalskillslab/DSL](https://padlet.com/digitalskillslab/DSL)
 
   
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saqibsafdar11&theme=light)](https://github.com/saqibsafdar11)
 
+## MSc Artificial Intelligence: nine taught modules
+
+Projects, research and writing from my University of Leeds studies. Each entry links to public evidence and identifies the form of the work.
+
+| Module | Project and public evidence | Acknowledgement |
+| --- | --- | --- |
+| **Machine Learning** | [Predicting student self-correction](https://github.com/saqibsafdar11/mathdial). Compared Bayesian Networks and Logistic Regression for predicting student self-correction in AI-supported mathematics tutoring using the MathDial dataset. **Evidence:** Notebook and report. | Thank you, [Arash Rabbani](https://www.linkedin.com/in/arash-rabbani/). |
+| **Deep Learning** | [Image caption generation with PyTorch](https://github.com/saqibsafdar11/Deep-Learning-Image-Caption-Generation). Built a PyTorch image-captioning system using ResNet-152 and an RNN, comparing greedy and beam-search decoding with BLEU and cosine similarity. **Evidence:** Notebook with saved outputs. | Thank you, [Nabi Omidvar](https://www.linkedin.com/in/nabiomidvar/). |
+| **Data Mining and Text Analytics** | [Multi-agent tutoring for ADHD learners](https://github.com/saqibsafdar11/Multi-Agent-AI-for-ADHD-Learners). Designed a multi-agent tutoring architecture that distributes cognitive support across specialised agents for learners with ADHD. **Evidence:** Research proposal and pilot analysis. | Thank you, [Dr. Noorhan Abbas](https://www.linkedin.com/in/dr-noorhan-abbas/). |
+| **Robotics** | [Reinforcement learning approaches](https://github.com/saqibsafdar11/rl_rob). Explored reinforcement learning through tabular, linear and nonlinear function-approximation approaches. **Evidence:** Learning code and environments. | Thank you, [Abdulrahman Altahhan (Ph.D)](https://www.linkedin.com/in/draltahhan/). |
+| **Programming for Data Science** | [Disadvantaged pupils: schools and trusts](https://github.com/saqibsafdar11/DfE_P8_Project). Analysed national DfE data to identify schools and multi-academy trusts achieving strong outcomes for disadvantaged pupils. **Evidence:** Data analysis project. | Thank you, [Dr. Noorhan Abbas](https://www.linkedin.com/in/dr-noorhan-abbas/). |
+| **Data Science** | [Insurance-fraud detection](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company). Compared neural-network and histogram gradient-boosting models for insurance-fraud detection. **Evidence:** Model comparison project. | Thank you, [Abdulrahman Altahhan (Ph.D)](https://www.linkedin.com/in/draltahhan/). |
+| **Algorithms** | [Algorithms and data structures](https://github.com/saqibsafdar11/Algorithms-and-Data-Structures). Developed my understanding of stable matching, graph search, dynamic programming, AVL trees, hashing and NP-completeness. **Evidence:** Graph-design notebook and module overview. | Thank you, [Fahad Panolan](https://www.linkedin.com/in/fahad-panolan-a901952ba/). |
+| **Knowledge Representation and Reasoning** | [Formal verification and ontology modelling](https://github.com/saqibsafdar11/Logic). Used Lean, OWL, Prolog and modal logic to explore formal verification and ontology modelling. **Evidence:** Formal proofs, ontology and report. | Thank you, [Dr Shabbar Naqvi](https://www.linkedin.com/in/dr-shabbar-naqvi-a740b19/). |
+| **Ethics of Artificial Intelligence** | [Responsible AI, pedagogy and human agency](https://github.com/saqibsafdar11/Ethics-of-AI-in-Education). Examined bias, accountability, cognitive debt and the need to align educational AI with sound pedagogy and human agency. **Evidence:** Published essays and reading index. | Thank you, [Paula Satne](https://www.linkedin.com/in/paula-satne-3ba48327/) and the wider teaching team. |
+
+Algorithms shares a design notebook and module overview; Ethics links to published essays. The multi-agent tutoring project is a research proposal with pilot analysis.
+
+[Explore the website portfolio](https://saqibsafdar.com/projects/)
+
 ## AI Projects (Python)
 
 | Project | Description |
 |---------|-------------|
-| [MathDial - Dialogue Tutoring Dataset](https://github.com/saqibsafdar11/mathdial) | AI dialogue tutoring system grounded in math reasoning problems with pedagogical properties ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/ML-NLP-purple) ![Education](https://img.shields.io/badge/Domain-Education-blue) |
+| [MathDial - Student Self-Correction](https://github.com/saqibsafdar11/mathdial) | Bayesian Networks and Logistic Regression for predicting self-correction in mathematics tutoring dialogues ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/ML-NLP-purple) ![Education](https://img.shields.io/badge/Domain-Education-blue) |
 | [ML Models for Fraud Detection](https://github.com/saqibsafdar11/ML-Models-for-Fraud-Detection-in-an-Insurance-Company) | Binary Classification using neural network and HistGradientBoostClassifier ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/ML-Neural%20Networks-orange) |
 | [University Admissions Prediction](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission) | Evaluating university admissions data to predict chances of admission ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Regression](https://img.shields.io/badge/ML-Regression-blue) |
 | [Dog Image Classification](https://github.com/saqibsafdar11/Dog-Image-Classification-Using-Deep-Learning-and-Tensorflow) | Deep Learning image classification using TensorFlow ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
